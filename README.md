@@ -3,8 +3,7 @@
 A Streamlit web application that predicts whether a person is diabetic based on clinical health parameters using a machine learning model.
 
 ## 🔗 Live Demo
-https://diabetes-detection.streamlit.app/
-
+https://diabetes-detection-xgopvdt6lfappp3hlzcv5af.streamlit.app/
 ## 🧠 Model
 - Algorithm: Support Vector Machine (SVM)
 - Trained using scikit-learn
